@@ -26,8 +26,8 @@ O **Nexus Media Studio** (anteriormente Nexus Downloader & Conversor) é uma apl
 
 1. Clone o repositório ou faça download do pacote comercial:
    ```bash
-   git clone https://github.com/seu-perfil/nexus-media-studio.git
-   cd nexus-media-studio
+   git clone https://github.com/caiopolak/MEDIA-KIT-STUDIO.git
+   cd MEDIA-KIT-STUDIO
    ```
 
 2. Instale as dependências:
