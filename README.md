@@ -6,7 +6,7 @@
 
 O **Nexus Media Studio** (anteriormente Nexus Downloader & Conversor) é uma aplicação desktop comercial premium projetada para DJs, criadores de conteúdo e profissionais de mídia. Ele oferece download rápido, extração de áudio, conversão em múltiplos formatos e organização inteligente de bibliotecas a partir do YouTube, YouTube Music e SoundCloud.
 
-## 🌟 Características Principais
+## 🌟 Características Principais do app:
 
 * **Interface de Usuário Premium:** Construída com `CustomTkinter`, apresenta design responsivo, modo claro/escuro, e 4 temas comerciais (YouTube Clássico, SoundCloud, Indigo Premium, Violet Night).
 * **Alta Qualidade Sem Compromisso:** Selecione a taxa de bits exata para áudio (até 320kbps) ou faça download de vídeo na melhor resolução possível sem perda de sincronia de áudio (usando FFmpeg).
