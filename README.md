@@ -1,4 +1,5 @@
 # Nexus Media Studio 🎬🎵
+![Tela real de app](https://raw.githubusercontent.com/caiopolak/MEDIA-KIT-STUDIO/refs/heads/main/Captura%20de%20tela%202026-10-18%20194742.png)
 
 ![Versão](https://img.shields.io/badge/Versão-3.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Comercial_Ready-success.svg)
