@@ -1,11 +1,12 @@
-# Nexus Media Studio 🎬🎵
+# Media Kit Studio 🎬🎵
 ![Tela real de app](https://raw.githubusercontent.com/caiopolak/MEDIA-KIT-STUDIO/refs/heads/main/Captura%20de%20tela%202026-10-18%20194742.png)
 
 ![Versão](https://img.shields.io/badge/Versão-3.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Comercial_Ready-success.svg)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-yellow.svg)
 
-O **Nexus Media Studio** (anteriormente Nexus Downloader & Conversor) é uma aplicação desktop comercial premium projetada para DJs, criadores de conteúdo e profissionais de mídia. Ele oferece download rápido, extração de áudio, conversão em múltiplos formatos e organização inteligente de bibliotecas a partir do YouTube, YouTube Music e SoundCloud.
+O **Media Kit Studio** (anteriormente Media Kit Studio Downloader & Conversor) é uma aplicação desktop comercial premium projetada para DJs, criadores de conteúdo e profissionais de mídia. 
+Ele oferece download rápido, extração de áudio, conversão em múltiplos formatos e organização inteligente de bibliotecas a partir do YouTube, YouTube Music e SoundCloud.
 
 ## 🌟 Características Principais do app:
 
@@ -37,7 +38,7 @@ O **Nexus Media Studio** (anteriormente Nexus Downloader & Conversor) é uma apl
    ```
 
 3. (Opcional mas exigido para conversão) Instale o FFmpeg:
-   - Se você já tem a pasta `ffmpeg/bin` no diretório do projeto, o Nexus detectará automaticamente (Modo Portable).
+   - Se você já tem a pasta `ffmpeg/bin` no diretório do projeto, o MKS detectará automaticamente (Modo Portable).
    - Caso contrário, instale no seu sistema operacional e o adicione ao PATH global.
 
 4. Execute a aplicação:
@@ -58,5 +59,5 @@ O software é construído em módulos para facilitar manutenibilidade:
 * `config.py`: Gestão de branding e variáveis de ambiente/caminhos.
 
 ## 📄 Direitos Autorais e Licenciamento
-© 2024 Nexus Media Studio. Todos os direitos reservados.
+© 2024 Media Kit Studio. Todos os direitos reservados.
 Este software é um produto de código fechado. É terminantemente proibida a engenharia reversa, sub-licenciamento, cópia ou distribuição sem a autorização prévia por escrito.
