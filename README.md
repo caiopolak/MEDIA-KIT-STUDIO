@@ -58,6 +58,8 @@ O software é construído em módulos para facilitar manutenibilidade:
 * `organizer.py`: Gestão de FileSystem e criação de estrutura de pastas.
 * `config.py`: Gestão de branding e variáveis de ambiente/caminhos.
 
-## 📄 Direitos Autorais e Licenciamento
-© 2024 Media Kit Studio. Todos os direitos reservados.
-Este software é um produto de código fechado. É terminantemente proibida a engenharia reversa, sub-licenciamento, cópia ou distribuição sem a autorização prévia por escrito.
+## 📄 Direitos autorais e licença
+
+O código original efetivamente criado pelo titular indicado no arquivo [LICENSE](LICENSE) é proprietário. Cópia, modificação, redistribuição ou uso comercial exigem autorização prévia e por escrito.
+
+Dependências, serviços, marcas e materiais de terceiros seguem seus próprios termos. O arquivo Get-cookies.txt LOCALLY e outras ferramentas de terceiros não são licenciados por este aviso. Consulte as licenças dos respectivos projetos antes de redistribuir qualquer componente.
